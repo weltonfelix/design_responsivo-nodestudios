@@ -1,2 +1,2 @@
-# design_responsivo-nodestudios
-Arquivos do curso de Design Responsivo da Node Studios
+# Design Responsivo
+  Arquivos do curso de Design Responsivo da Node Studios
